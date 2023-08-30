@@ -19,10 +19,10 @@
         },
         {
           "fieldName": "value5",
-          "type": "INTEGER"
+          "type": "ARRAY"
         }
       ]
     }
   },
-  "version": "0.0.3"
+  "version": "0.0.5"
 }

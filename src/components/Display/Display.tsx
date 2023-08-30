@@ -7,5 +7,6 @@ interface DisplayProps {
 }
 
 export function Display(props: DisplayProps) {
+  console.log(props.value5)
   return <h1>{props.value || 'NO INPUT'}</h1>;
 }
