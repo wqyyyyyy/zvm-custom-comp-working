@@ -8,6 +8,22 @@
         {
           "fieldName": "value",
           "type": "TEXT"
+        },
+        {
+          "fieldName": "value2",
+          "type": "INTEGER"
+        },
+        {
+          "fieldName": "value2",
+          "type": "DECIMAL"
+        },
+        {
+          "fieldName": "value2",
+          "type": "BOOLEAN"
+        },
+        {
+          "fieldName": "value2",
+          "type": "INTEGER"
         }
       ]
     }
