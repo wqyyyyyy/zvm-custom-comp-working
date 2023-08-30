@@ -14,10 +14,6 @@
           "type": "INTEGER"
         },
         {
-          "fieldName": "value3",
-          "type": "DECIMAL"
-        },
-        {
           "fieldName": "value4",
           "type": "BOOLEAN"
         },
