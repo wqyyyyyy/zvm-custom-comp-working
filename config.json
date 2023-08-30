@@ -14,19 +14,19 @@
           "type": "INTEGER"
         },
         {
-          "fieldName": "value2",
+          "fieldName": "value3",
           "type": "DECIMAL"
         },
         {
-          "fieldName": "value2",
+          "fieldName": "value4",
           "type": "BOOLEAN"
         },
         {
-          "fieldName": "value2",
+          "fieldName": "value5",
           "type": "INTEGER"
         }
       ]
     }
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
