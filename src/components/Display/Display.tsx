@@ -4,9 +4,10 @@
 interface DisplayProps {
   globalData: Record<string, any>;
   value?: string;
+  value5?: any[];
 }
 
 export function Display(props: DisplayProps) {
-  console.log(props.value5)
+  console.log(props.value5);
   return <h1>{props.value || 'NO INPUT'}</h1>;
 }
